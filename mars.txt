@@ -1,3 +1,5 @@
 Mars is my favorite planet.
 
-Mars has craters.
+Travel to Mars takes time.
+
+It is home of Marvin the Martian.
