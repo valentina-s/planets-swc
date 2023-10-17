@@ -5,3 +5,5 @@ Travel to Mars takes time.
 It is home of Marvin the Martian.
 
 Mars is red.
+
+Mars is not green.
